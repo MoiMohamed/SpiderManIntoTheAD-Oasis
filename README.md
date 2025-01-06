@@ -34,4 +34,4 @@ The game ends if:
 ![mock](https://github.com/user-attachments/assets/f2542924-a4bf-4901-9e12-c8a3fc7f3d94)
 
 
-##### Video Example
+### Video Example
