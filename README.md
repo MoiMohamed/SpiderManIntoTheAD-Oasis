@@ -5,8 +5,11 @@ Collect points by catching criminals on platforms and surviving longer.
 ### Gameplay Mechanics
 ##### Mouse Interactions
 1. Swinging on Hooks:
+   
 • Press and hold the left mouse button near a hook to attach your character to it and start swinging.
+
 • Release the mouse button to detach from the hook and launch yourself in the desired direction.
+
 • No keyboard interactions are required for gameplay. The game is controlled entirely using the mouse.
 ##### Gameplay Tips
 1. Use hooks strategically to swing over obstacles and avoid falling off the screen.
