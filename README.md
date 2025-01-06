@@ -26,4 +26,9 @@ The game ends if:
 1. The monster catches you.
 2. You hit a deadly spike.
 3. You fall below the map boundaries.
+
+### Mock Design
+![mock](https://github.com/user-attachments/assets/f2542924-a4bf-4901-9e12-c8a3fc7f3d94)
+
+
 ##### Video Example
