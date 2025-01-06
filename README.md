@@ -19,7 +19,9 @@ above, it will be challenging to return swinging.
 5. The monster speeds up over time, so stay ahead by swinging efficiently.
 ##### Scoring System
 • Survive longer to earn more points.
+
 • Bonus points are awarded for passing through criminals on platforms.
+
 • Swiping below the boundaries will stop the score increase.
 
 ##### End Conditions
