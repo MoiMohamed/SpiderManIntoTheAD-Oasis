@@ -21,7 +21,8 @@ above, it will be challenging to return swinging.
 • Survive longer to earn more points.
 • Bonus points are awarded for passing through criminals on platforms.
 • Swiping below the boundaries will stop the score increase.
- #####End Conditions
+
+##### End Conditions
 The game ends if:
 1. The monster catches you.
 2. You hit a deadly spike.
